@@ -13,9 +13,6 @@ CREATE TABLE chicago_crime(
     arrest VARCHAR(255)
 );
 
-    
-DROP TABLE chicago_crime;
-DROP TABLE business;
 
 SELECT * FROM chicago_crime;
 
